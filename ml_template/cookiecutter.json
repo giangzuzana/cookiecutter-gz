@@ -1,0 +1,10 @@
+{
+    "dir_name": "deep_mods_uc",
+    "dir_checkpoints": "checkpoints",    
+    "dir_data": "data",
+    "dir_models": "models",
+    "dir_requirements": "requirements",
+    "entry_script": "entry_script",
+    "utils_script": "utils_script",   
+    "greeting_recipient": "giangzuzana"
+}
