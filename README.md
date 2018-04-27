@@ -1,4 +1,5 @@
-Project template http://cookiecutter.readthedocs.io/en/latest/first_steps.html
+Cookiecutter project template http://cookiecutter.readthedocs.io/en/latest/first_steps.html
+========
 
 $ cd ml_template
 
