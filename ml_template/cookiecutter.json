@@ -6,7 +6,8 @@
     "dir_logs": "logs",
     "dir_models": "models",
     "dir_requirements": "requirements",
-    "entry_script": "entry_script",
-    "utils_script": "utils_script",   
+    "script_entry": "script_entry",
+    "script_constants": "script_constants",
+    "script_utils": "script_utils",   
     "greeting_recipient": "giangzuzana"
 }
